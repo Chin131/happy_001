@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme Colors -->
+    <color name="md_theme_light_primary">#006E1C</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#95F990</color>
+    <color name="md_theme_light_onPrimaryContainer">#002204</color>
+    <color name="md_theme_light_secondary">#516351</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#D3E8D1</color>
+    <color name="md_theme_light_onSecondaryContainer">#0F1F11</color>
+    <color name="md_theme_light_tertiary">#39656B</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#BDEAF1</color>
+    <color name="md_theme_light_onTertiaryContainer">#001F23</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FCFDF6</color>
+    <color name="md_theme_light_onBackground">#1A1C19</color>
+    <color name="md_theme_light_surface">#FCFDF6</color>
+    <color name="md_theme_light_onSurface">#1A1C19</color>
+    <color name="md_theme_light_surfaceVariant">#DEE5D8</color>
+    <color name="md_theme_light_onSurfaceVariant">#424940</color>
+    <color name="md_theme_light_outline">#727970</color>
+    <color name="md_theme_light_inverseOnSurface">#F0F1EB</color>
+    <color name="md_theme_light_inverseSurface">#2F312D</color>
+    <color name="md_theme_light_inversePrimary">#79DC77</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="md_theme_dark_primary">#79DC77</color>
+    <color name="md_theme_dark_onPrimary">#00390A</color>
+    <color name="md_theme_dark_primaryContainer">#005313</color>
+    <color name="md_theme_dark_onPrimaryContainer">#95F990</color>
+    <color name="md_theme_dark_secondary">#B7CCB6</color>
+    <color name="md_theme_dark_onSecondary">#243425</color>
+    <color name="md_theme_dark_secondaryContainer">#3A4B3A</color>
+    <color name="md_theme_dark_onSecondaryContainer">#D3E8D1</color>
+    <color name="md_theme_dark_tertiary">#A1CED5</color>
+    <color name="md_theme_dark_onTertiary">#00363C</color>
+    <color name="md_theme_dark_tertiaryContainer">#1F4D53</color>
+    <color name="md_theme_dark_onTertiaryContainer">#BDEAF1</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#1A1C19</color>
+    <color name="md_theme_dark_onBackground">#E2E3DD</color>
+    <color name="md_theme_dark_surface">#1A1C19</color>
+    <color name="md_theme_dark_onSurface">#E2E3DD</color>
+    <color name="md_theme_dark_surfaceVariant">#424940</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C2C9BC</color>
+    <color name="md_theme_dark_outline">#8C9388</color>
+    <color name="md_theme_dark_inverseOnSurface">#1A1C19</color>
+    <color name="md_theme_dark_inverseSurface">#E2E3DD</color>
+    <color name="md_theme_dark_inversePrimary">#006E1C</color>
+    
+    <!-- Common Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Note Colors -->
+    <color name="note_color_1">#FAE2B4</color> <!-- Light Yellow -->
+    <color name="note_color_2">#FFD6C4</color> <!-- Light Orange -->
+    <color name="note_color_3">#D4EEFF</color> <!-- Light Blue -->
+    <color name="note_color_4">#E0FFC9</color> <!-- Light Green -->
+    <color name="note_color_5">#FFD6E8</color> <!-- Light Pink -->
+    <color name="note_color_6">#E9D4FF</color> <!-- Light Purple -->
+    <color name="note_color_7">#D6F5FF</color> <!-- Light Cyan -->
+    <color name="note_color_8">#FFD6D6</color> <!-- Light Red -->
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorOnSurfaceVariant">#757575</color>
+    <color name="colorOutline">#E0E0E0</color>
+    
+    <!-- Swipe action colors -->
+    <color name="delete_background">#F44336</color>
+    <color name="archive_background">#4CAF50</color>
+    <color name="pin_background">#2196F3</color>
+</resources> 

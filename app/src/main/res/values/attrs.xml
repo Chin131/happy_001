@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- EmptyStateView attributes -->
+    <declare-styleable name="EmptyStateView">
+        <attr name="emptyStateTitle" format="string" />
+        <attr name="emptyStateMessage" format="string" />
+        <attr name="emptyStateImage" format="reference" />
+        <attr name="emptyStateActionText" format="string" />
+    </declare-styleable>
+    
+    <!-- AnimatedButton attributes -->
+    <declare-styleable name="AnimatedButton">
+        <attr name="buttonColor" format="color" />
+        <attr name="rippleColor" format="color" />
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="pressedScale" format="float" />
+    </declare-styleable>
+    
+    <!-- NoteProRefreshView attributes -->
+    <declare-styleable name="NoteProRefreshView">
+        <attr name="refreshColor" format="color" />
+        <attr name="animationDuration" format="integer" />
+    </declare-styleable>
+</resources> 

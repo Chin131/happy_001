@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:padding="2dp">
+
+    <View
+        android:id="@+id/color_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_color_item"
+        tools:backgroundTint="@color/note_color_1" />
+
+    <ImageView
+        android:id="@+id/selected_indicator"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/selected"
+        android:src="@drawable/ic_check"
+        android:visibility="gone"
+        tools:visibility="visible" />
+
+</FrameLayout> 

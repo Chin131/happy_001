@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common margins and paddings -->
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    
+    <!-- Text sizes -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_headline">24sp</dimen>
+    
+    <!-- Button dimensions -->
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="button_corner_radius">24dp</dimen>
+    <dimen name="button_padding_horizontal">16dp</dimen>
+    
+    <!-- Input dimensions -->
+    <dimen name="input_corner_radius">8dp</dimen>
+    <dimen name="input_padding">12dp</dimen>
+    
+    <!-- Card dimensions -->
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    
+    <!-- Empty state dimensions -->
+    <dimen name="empty_state_image_size">120dp</dimen>
+    
+    <!-- Refresh view dimensions -->
+    <dimen name="refresh_offset_start">56dp</dimen>
+    <dimen name="refresh_offset_end">96dp</dimen>
+    <dimen name="refresh_icon_size">36dp</dimen>
+    
+    <!-- Swipe dimensions -->
+    <dimen name="swipe_icon_margin">16dp</dimen>
+    <dimen name="swipe_icon_size">24dp</dimen>
+</resources> 
